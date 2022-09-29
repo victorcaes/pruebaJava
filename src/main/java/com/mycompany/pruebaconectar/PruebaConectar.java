@@ -12,6 +12,7 @@ package com.mycompany.pruebaconectar;
 public class PruebaConectar {
 
     public static void main(String[] args) {
-        System.out.println("sumade pruebas");
+        System.out.println("sumade cambiado");
+        System.out.println("añadeindo una linea mas");
     }
 }
